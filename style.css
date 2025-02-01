@@ -1,0 +1,26 @@
+nav {
+    padding: 1rem;
+}
+
+nav img {
+    max-height: 50px;
+    width: auto;
+}
+
+.section-with-bg {
+    background-image: url('IMG_4645.jpg');
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    position: relative;
+    color: #FFF;
+    text-align: right;
+}
+
+.contact-info {
+    display: flex; 
+    justify-content: space-between; 
+    max-width: 1200px; 
+    margin: 0 auto;
+}
